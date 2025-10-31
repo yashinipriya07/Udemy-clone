@@ -35,7 +35,7 @@ Udmey-Clone/
 
 Clone this repository
 
-git clone https://github.com/your-username/Udmey-Clone.git
+git clone https://github.com/yashinipriya07/Udemy-clone.git
 
 
 Open the project folder
